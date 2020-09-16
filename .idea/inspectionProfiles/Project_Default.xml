@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="excise.test_broswer_method.datatime" />
+          <option value="excise.test_broswer_method.curr_time" />
+          <option value="excise.test_sele.HtmlTsetRunner" />
+          <option value="excise_pytest.conftest.self" />
+          <option value="pages.login_operate.self" />
+          <option value="test.admin_adduser_operate.self" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
